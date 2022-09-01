@@ -1,0 +1,11 @@
+{
+  "name": "busca-vagas-linkedin",
+  "version": "1.0.0",
+  "description": "Script que busca vagas no Linkedin",
+  "main": "index.js",
+  "author": "carlitos.fioravante@ufms.br",
+  "licence": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.0.0"
+  }
+}
